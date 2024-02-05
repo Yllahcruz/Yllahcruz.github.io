@@ -1,0 +1,9 @@
+<!doctype html>
+<html Lang="en">
+</head>
+- var texts = [ "I", "K", "O", "W" ];
+- var texts = [ "Y" , "O" , "U' ];
+- var texts = [ "a","l","r","e","a","d","y","a","s","k","m","e" ];
+<body>
+-var texts = [ "b","u","t" ];
+-var texts = [ "WILL", "YOU", "BE", "MY", "VALENTINES", "TOO?" ];
